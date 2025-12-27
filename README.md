@@ -1,83 +1,37 @@
-# 👋 Hi, I'm Skandar Gharbi
-
-### ⚙️ Software Engineering Student | Embedded Systems & IoT Developer | Backend Enthusiast
-
-🚀 *Finishing Software Engineering Degree   *
-🔌 *Technicien Supérieur en Systèmes Embarqués*
-
----
-
-## 🧠 About Me
-
-I am a **software engineering student** currently completing my **engineering cycle**, with a strong background in **embedded systems**, **IoT**, and **software development**.
-
-I enjoy building systems that connect **hardware and software**, focusing on performance, reliability, and real-world impact.
-
-```javascript
-const skandar = {
-  role: "Software Engineering Student",
-  education: "Cycle Ingénieur",
-  background: "Embedded Systems Technician",
-  interests: ["Backend Development", "IoT", "Embedded Systems"],
-  mindset: "Engineering solutions, not just code",
-  openTo: ["Internships", "Projects", "Collaborations"]
-};
-```
+<div align="center">
+  <h1>Skandar Gharbi</h1>
+  <p><strong>Software Engineering Student · Embedded Systems & IoT Developer · Backend Enthusiast</strong></p>
+  <p>Connecting hardware and software to deliver reliable, real-world solutions.</p>
+</div>
 
 ---
 
-## 🎯 What I Do
+## 🚀 Quick Snapshot
+- 🎓 Finishing a Software Engineering degree (Cycle Ingénieur)  
+  🔌 Previously *Technicien Supérieur en Systèmes Embarqués*
+- 🧩 Build end-to-end systems: from sensors and firmware to APIs and data layers
+- 🤝 Open to internships, projects, and collaborations
 
-### 💻 Software Development
-- Backend development with **Node.js**
-- RESTful API design
-- Database modeling & optimization
-- Clean, maintainable code
+---
 
-### 🔌 Embedded Systems & IoT
-- **STM32**, **Arduino**, **ESP32 / ESP8266**
-- Embedded C / C++ development
-- Sensor integration & communication
-- IoT device connectivity
-
-### 🧠 Engineering Mindset
-- System-level thinking
-- Debugging & optimization
-- Continuous learning
+## 💼 What I Do
+- **Backend Development:** Node.js, RESTful API design, database modeling & optimization, clean and maintainable code
+- **Embedded Systems & IoT:** STM32, Arduino, ESP32/ESP8266, sensor integration, connectivity and communication
+- **Engineering Mindset:** system-level thinking, rigorous debugging, and continuous learning
 
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- Python
-- Java
-- JavaScript
-- TypeScript
-- C / C++
-- SQL
-
-### ⚙️ Backend & Databases
-- Node.js
-- MongoDB
-- MySQL
-
-### 🔌 Embedded Systems & IoT
-- STM32
-- Arduino
-- ESP32 / ESP8266
-
-### 🔧 Tools & Environment
-- Git & GitHub
-- Linux
-- Postman
+- **Languages:** Python, Java, JavaScript/TypeScript, C/C++, SQL
+- **Backend & Databases:** Node.js, MongoDB, MySQL
+- **Embedded & IoT:** STM32, Arduino, ESP32/ESP8266
+- **Tools:** Git & GitHub, Linux, Postman
 
 ---
 
-## 🏆 Skills Overview
-
+## 🏆 Strengths at a Glance
 | Domain | Skills |
-|------|-------|
+| ------ | ------ |
 | Software Engineering | Node.js, Java, Python |
 | Embedded Systems | STM32, Arduino, ESP |
 | IoT | Sensors, Connectivity, Embedded Software |
@@ -86,10 +40,9 @@ const skandar = {
 
 ---
 
-## 🌱 Engineering Values
-
+## 🌱 Principles I Work By
 ```python
-def my_values():
+def engineering_values():
     return {
         "reliability": "Systems must work in real conditions",
         "efficiency": "Optimize software and hardware",
@@ -102,8 +55,7 @@ def my_values():
 ---
 
 ## 📫 Let's Connect
-
-- Software Engineering opportunities  
+- Software engineering opportunities  
 - Embedded & IoT projects  
 - Technical collaborations  
 
