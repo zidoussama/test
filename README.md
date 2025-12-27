@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Skandar Gharbi
 
-### ⚙️ Software Engineering Student | Embedded Systems & IoT Developer | Fullstack
+### ⚙️ Software Engineering Student | Embedded Systems & IoT Developer | Fullstack Development
 
-🎓 Finishing a Software Engineering degree (Cycle Ingénieur)
-🔌 Previously Technicien Supérieur en Systèmes Embarqués (Embedded Systems Technician)
-🖥️ Build front-end interfaces with React & Next.js
-🧩 Build end-to-end systems: from sensors and firmware to APIs and data layers
-🤝 Open to internships, projects, and collaborations
+---
+
+## 🚀 Quick Snapshot
+- 🎓 Finishing a Software Engineering degree 
+- 🔌 Previously *Embedded Systems Technician* 
+- 🖥️ Build front-end interfaces with React & Next.js
+- 🧩 Build end-to-end systems: from sensors and firmware to APIs and data layers
+- 🤝 Open to internships, projects, and collaborations
+
 ---
 
 ## 🧠 About Me
