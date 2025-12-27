@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Skandar Gharbi
 
-### ⚙️ Software Engineering Student | Embedded Systems & IoT Developer | Backend Enthusiast
+### ⚙️ Software Engineering Student | Embedded Systems & IoT Developer | Fullstack
 
-🚀 *Finishing Software Engineering Degree   *
-🔌 *Technicien Supérieur en Systèmes Embarqués*
-
+🎓 Finishing a Software Engineering degree (Cycle Ingénieur)
+🔌 Previously Technicien Supérieur en Systèmes Embarqués (Embedded Systems Technician)
+🖥️ Build front-end interfaces with React & Next.js
+🧩 Build end-to-end systems: from sensors and firmware to APIs and data layers
+🤝 Open to internships, projects, and collaborations
 ---
 
 ## 🧠 About Me
@@ -30,6 +32,7 @@ const skandar = {
 
 ### 💻 Software Development
 - Backend development with **Node.js**
+- Frontend development with **React and nextjs**
 - RESTful API design
 - Database modeling & optimization
 - Clean, maintainable code
@@ -56,7 +59,9 @@ const skandar = {
 - TypeScript
 - C / C++
 - SQL
-
+### ⚙️ Frontend
+-React js
+-next js
 ### ⚙️ Backend & Databases
 - Node.js
 - MongoDB
@@ -78,7 +83,7 @@ const skandar = {
 
 | Domain | Skills |
 |------|-------|
-| Software Engineering | Node.js, Java, Python |
+| Software Engineering | Node.js, Java, Python, React ,Next js |
 | Embedded Systems | STM32, Arduino, ESP |
 | IoT | Sensors, Connectivity, Embedded Software |
 | Databases | MongoDB, SQL |
