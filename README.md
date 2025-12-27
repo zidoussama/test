@@ -9,6 +9,7 @@
 ## 🚀 Quick Snapshot
 - 🎓 Finishing a Software Engineering degree (Cycle Ingénieur)
 - 🔌 Previously *Technicien Supérieur en Systèmes Embarqués* (Embedded Systems Technician)
+- 🖥️ Build front-end interfaces with React & Next.js
 - 🧩 Build end-to-end systems: from sensors and firmware to APIs and data layers
 - 🤝 Open to internships, projects, and collaborations
 
@@ -24,6 +25,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, JavaScript/TypeScript, C/C++, SQL
 - **Backend & Databases:** Node.js, MongoDB, MySQL
+- **Frontend:** React, Next.js
 - **Embedded & IoT:** STM32, Arduino, ESP32/ESP8266
 - **Tools:** Git & GitHub, Linux, Postman
 
