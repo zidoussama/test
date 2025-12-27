@@ -8,7 +8,7 @@
 
 ## 🚀 Quick Snapshot
 - 🎓 Finishing a Software Engineering degree (Cycle Ingénieur)
-- 🔌 Previously *Technicien Supérieur en Systèmes Embarqués*
+- 🔌 Previously *Technicien Supérieur en Systèmes Embarqués* (Embedded Systems Technician)
 - 🧩 Build end-to-end systems: from sensors and firmware to APIs and data layers
 - 🤝 Open to internships, projects, and collaborations
 
@@ -55,7 +55,7 @@ def engineering_values():
 ---
 
 ## 📫 Let's Connect
-- Software engineering opportunities  
+- Software Engineering opportunities  
 - Embedded & IoT projects  
 - Technical collaborations  
 
