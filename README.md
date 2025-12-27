@@ -22,9 +22,9 @@ I enjoy building systems that connect **hardware and software**, focusing on per
 ```javascript
 const skandar = {
   role: "Software Engineering Student",
-  education: "Cycle Ingénieur",
+  education: "Software Development",
   background: "Embedded Systems Technician",
-  interests: ["Backend Development", "IoT", "Embedded Systems"],
+  interests: ["FullStack Development", "IoT", "Embedded Systems"],
   mindset: "Engineering solutions, not just code",
   openTo: ["Internships", "Projects", "Collaborations"]
 };
