@@ -2,7 +2,7 @@
 
 ### ⚙️ Software Engineering Student | Embedded Systems & IoT Developer | Backend Enthusiast
 
-🚀 *Finishing Software Engineering Degree (Cycle Ingénieur)*  
+🚀 *Finishing Software Engineering Degree   *
 🔌 *Technicien Supérieur en Systèmes Embarqués*
 
 ---
