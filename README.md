@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 Quick Snapshot
-- 🎓 Finishing a Software Engineering degree (Cycle Ingénieur)  
-  🔌 Previously *Technicien Supérieur en Systèmes Embarqués*
+- 🎓 Finishing a Software Engineering degree (Cycle Ingénieur)
+- 🔌 Previously *Technicien Supérieur en Systèmes Embarqués*
 - 🧩 Build end-to-end systems: from sensors and firmware to APIs and data layers
 - 🤝 Open to internships, projects, and collaborations
 
