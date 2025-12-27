@@ -31,7 +31,7 @@
 
 ## 🏆 Strengths at a Glance
 | Domain | Skills |
-| ------ | ------ |
+| --- | --- |
 | Software Engineering | Node.js, Java, Python |
 | Embedded Systems | STM32, Arduino, ESP |
 | IoT | Sensors, Connectivity, Embedded Software |
